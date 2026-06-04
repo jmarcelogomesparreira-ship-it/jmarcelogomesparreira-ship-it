@@ -1,7 +1,9 @@
+<img width="1983" height="793" alt="ChatGPT Image 4 de jun  de 2026, 16_14_17" src="https://github.com/user-attachments/assets/cb0e6326-a622-43c0-8394-9fcd52c5aae6" />
 # Marcelo J. G. Parreira
 
 **Analista Industrial | Power BI · SAP MM · Lean Six Sigma Yellow Belt**  
 📍 Iturama, Minas Gerais · Brasil
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-josé-gomes-parreira-101b352ab)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:j.marcelogomesparreira@outlook.com)
